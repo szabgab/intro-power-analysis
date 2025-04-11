@@ -1,7 +1,6 @@
 [book]
 authors = ["Gijs Burghoorn"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Power analysis Introductory Walkthrough"
 
